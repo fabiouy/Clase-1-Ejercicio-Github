@@ -12,7 +12,7 @@ Orlinski, Fabio  (173630) -> Usuario Github:
 Pintos, Iara  (191748) -> Usuario Github:
 Plada, Marcelo (210977) -> Usuario Github:
 Poittevin, Juan Pablo (169766) -> Usuario Github:
-Ramírez, Fabio (218566) -> Usuario Github:fabiouy
+Ramírez, Fabio (218566) -> Usuario Github: fabiouy
 Silva, Vincent (212677) -> Usuario Github:
 Souberville, Denise  (223427) -> Usuario Github:
 Trecca, Guillermo (142586) -> Usuario Github:
